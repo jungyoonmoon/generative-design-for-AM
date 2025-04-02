@@ -17,7 +17,7 @@ Run the following command to train the Latent-GAN:
 
 ```bash
 python main.py --train --epoch 10000 --dataset dataset_z
-
+```
 
 ##Generating Latent Vectors
 
@@ -25,3 +25,4 @@ Once training is complete, generate new latent vectors using:
 
 ```bash
 python main.py --dataset dataset_z
+```
