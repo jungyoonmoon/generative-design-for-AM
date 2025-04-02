@@ -15,7 +15,7 @@ This guide explains how to reconstruct a **3D mesh** from a **latent vector** ge
      ```
 
 2. **Execute the Reconstruction Command**  
-   Run the following command in your console from: Phase1. Design generation/Stage1. Generative model-based design automation/IM-AE/
+   Run the following command in your console
 
 ```bash
 python main.py --ae --get_mesh --data_dir ./data/dataset --dataset dataset --sample_dir samples/dataset
