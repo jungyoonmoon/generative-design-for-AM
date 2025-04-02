@@ -19,11 +19,11 @@ cc3d (connected-components-3d) >= 3.10.5 ver.
    - Open and execute `CCL_tool.py` in your **IDE**.
 
 3. **Review the Results**  
-   - Fractured (defective) parts will be stored in:
+   - Fractured (defective) parts will be saved in:
      ```
      ./fractured/
      ```
-   - Normal (valid) parts will be stored in:
+   - Normal (valid) parts will be saved in:
      ```
      ./normal/
      ```
