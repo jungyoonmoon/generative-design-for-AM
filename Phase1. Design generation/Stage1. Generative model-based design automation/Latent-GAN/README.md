@@ -19,7 +19,7 @@ Run the following command to train the Latent-GAN:
 python main.py --train --epoch 10000 --dataset dataset_z
 ```
 
-##Generating Latent Vectors
+## Generating Latent Vectors
 
 Once training is complete, generate new latent vectors using:
 
