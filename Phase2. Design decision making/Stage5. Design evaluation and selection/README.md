@@ -13,8 +13,9 @@ and paste them into: './Stage5. Design evaluation and selection/prediction resul
 - Execute the following script to perform the **TOPSIS evaluation**:
 ```bash
 python TOPSIS.py
-
+```
 ### 3. Construct the Pareto Optimal Set
 - Run the script to generate a 3D scatter plot representing the Pareto optimal set for generative design in Additive Manufacturing (AM):
 ```bash
 python 3D_scatter.py
+```
