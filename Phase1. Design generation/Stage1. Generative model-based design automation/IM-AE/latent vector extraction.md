@@ -7,13 +7,13 @@ This guide explains how to extract **latent vectors** from a dataset using the t
 1. **Ensure Trained Encoder Weights are Available**  
    - The trained encoder weights should be located in:
      ```
-     checkpoint/
+     IM-AE/checkpoint/
      ```
 
 2. **Prepare the Dataset**  
    - Place the dataset in:
      ```
-     dataset/
+     IM-AE/dataset/
      ```
 
 3. **Run the Latent Vector Extraction Command**  
