@@ -16,7 +16,5 @@
    - Time prediction weights: `./3. Weights/time`
 
 4. **Run the final script to obtain the feasible Pareto optimal set**  
-   - Execute:  
-     ```bash
-     python Feasible Pareto optimal set.py
-     ```
+   - Run the Feasible Pareto optimal set.py in yout **IDE**
+
