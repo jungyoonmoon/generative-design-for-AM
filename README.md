@@ -24,4 +24,7 @@ The design decision making phase composed of two stages.
 **Stage 5. Design evaluation and selection**
 - Select the designs by predicted performance criteria using TOPSIS method.
 
- 
+<h3> Automation </h3>
+
+This section describes the automation process from Stage 1 to Stage 5, aiming to visualize the 3D plot of the Pareto optimal set.
+- Stages 2, 4, and 5 are integrated into an automated pipeline to visualize the Pareto optimal set derived from the generated designs after defective design filtering.
