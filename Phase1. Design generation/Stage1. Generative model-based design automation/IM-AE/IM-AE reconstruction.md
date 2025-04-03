@@ -4,7 +4,11 @@ This guide explains how to reconstruct a **3D mesh** from a **latent vector** ge
 
 ## Steps to Generate 3D Mesh
 
-1. **Prepare Latent Vector Data**  
+1. **Prepare Latent Vector Data**
+   - Extract the latent vector by following command in the console :
+     ```
+     python main.py --ae --getz --dataset dataset --data_dir ./data/dataset
+     ```
    - Place your **latent vector data** in:
      ```
      ./data/dataset/
@@ -14,7 +18,7 @@ This guide explains how to reconstruct a **3D mesh** from a **latent vector** ge
      data_z.hdf5
      ```
 
-2. **Execute the Reconstruction Command**  
+3. **Execute the Reconstruction Command**  
    Run the following command in your console
 
 ```bash
