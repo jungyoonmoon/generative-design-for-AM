@@ -201,7 +201,7 @@ if __name__ == '__main__':
     stl_path = './1. Generated design dataset/stl'
     normal_npy_PATH ='./2. Feasible design generation set/npy'
     normal_stl_PATH ='./2. Feasible design generation set/stl'
-    broken_PATH = './infeasible design dataset'
+    broken_PATH = './2. Feasible design generation set/fractured'
 
     iter_npy_names = os.listdir(npy_design_path)
     print(iter_npy_names)
