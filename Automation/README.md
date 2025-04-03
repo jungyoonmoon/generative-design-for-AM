@@ -1,4 +1,4 @@
-## 🚀 Usage Instructions for **Automation**
+## Usage Instructions for **Automation**
 
 1. **Place the generated design dataset from Stage 1**  
    - For voxel data: `./1. Generated design set/npy`  
