@@ -17,6 +17,7 @@ The design generation phase have three interrelated stages.
 
 <h3> Phase2. Design decision-making </h3>
 The design decision making phase composed of two stages.
+<br> </br> 
 
 **Stage 4. Performance prediction**
 - Train the 3D-CNN models to predict the performance criteria of generated designs.
